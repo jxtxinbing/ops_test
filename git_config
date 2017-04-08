@@ -1,0 +1,10 @@
+http://www.runoob.com/w3cnote/git-guide.html
+
+
+
+wubing@leo:~/git_test$ git config --global user.name "jxtxinbing"
+wubing@leo:~/git_test$ git config --global user.email "450275009@qq.com"
+
+检出仓库：
+wubing@leo:~/git_test$ git clone  git@github.com:jxtxinbing/ops_test.git
+
