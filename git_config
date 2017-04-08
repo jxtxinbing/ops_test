@@ -17,3 +17,8 @@ wubing@leo:~/git_test/ops_test$git commit -m "test git commit a file"
 
 提交到服务远端
 wubing@leo:~/git_test/ops_test$git push origin master
+
+
+如果更改git_config
+
+需要先提交本地再提交到服务远端
