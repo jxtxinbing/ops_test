@@ -8,3 +8,12 @@ wubing@leo:~/git_test$ git config --global user.email "450275009@qq.com"
 检出仓库：
 wubing@leo:~/git_test$ git clone  git@github.com:jxtxinbing/ops_test.git
 
+
+
+提交到本地仓库：
+wubing@leo:~/git_test/ops_test$git add git_config
+wubing@leo:~/git_test/ops_test$git commit -m "test git commit a file"
+
+
+提交到服务远端
+wubing@leo:~/git_test/ops_test$git push origin master
